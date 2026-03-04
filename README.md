@@ -16,9 +16,13 @@ using proper error logging.
 ## Concepts Used
 
 •  File Handling
+
 •  Dictionaries
+
 •  Exception Handling
+
 •  Logging
+
 •  Data Validation
 
 ## How to Run
